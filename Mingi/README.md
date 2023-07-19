@@ -132,3 +132,4 @@
 
 
 ## 참고: https://yozm.wishket.com/magazine/detail/2064/
+## 프론트엔드 참고용 : https://yozm.wishket.com/magazine/detail/2115/
