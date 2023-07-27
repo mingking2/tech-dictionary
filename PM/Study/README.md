@@ -16,14 +16,14 @@
     4. **It includes a what and a why.** What's going wrong, and wht is it a problem?
     5. **It's agnostic of a solution.** Try not to rush for problem solving.
     <br>
-    - Examples of good problem statements:
-    1. Lyft drivers are cancelling rides too often because the passengers are too far away.
-    2. Airbnb hosts are feeling frustrated because they want to improve, but are finding it difficult to figure out how.
+    - Examples of good problem statements:<br>
+    1. Lyft drivers are cancelling rides too often because the passengers are too far away.<br>
+    2. Airbnb hosts are feeling frustrated because they want to improve, but are finding it difficult to figure out how.<br>
     3. Users are dropping off at too high a rate at the final step of the signup flow.
     <br>
-    - Examples of good problem statements:
-    1. Lyft drivers are cancelling rides too often because the passengers are too far away.
-    2. Airbnb hosts are feeling frustrated because they want to improve, but are finding it difficult to figure out how.
+    - Examples of good problem statements:<br>
+    1. Lyft drivers are cancelling rides too often because the passengers are too far away.<br>
+    2. Airbnb hosts are feeling frustrated because they want to improve, but are finding it difficult to figure out how.<br>
     3. Users are dropping off at too high a rate at the final step of the signup flow.
 * Why: How do we know this is a real problem and worth solving?
 * Success: How do we know if we’ve solved this problem?
