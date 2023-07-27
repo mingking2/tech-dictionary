@@ -15,10 +15,12 @@
         3. **It references a "need" that is not being fulfilled.** User need + Biz need(unnecessary). [Jobs-To-Be-Done framework](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
         4. **It includes a what and a why.** What's going wrong, and wht is it a problem?
         5. **It's agnostic of a solution.** Try not to rush for problem solving.
+    
     <br>Examples of good problem statements:
     1. Lyft drivers are cancelling rides too often because the passengers are too far away.
     2. Airbnb hosts are feeling frustrated because they want to improve, but are finding it difficult to figure out how.
     3. Users are dropping off at too high a rate at the final step of the signup flow.
+    
     <br>Examples of good problem statements:
     1. Lyft drivers are cancelling rides too often because the passengers are too far away.
     2. Airbnb hosts are feeling frustrated because they want to improve, but are finding it difficult to figure out how.
