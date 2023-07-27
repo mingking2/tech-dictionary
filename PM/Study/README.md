@@ -10,11 +10,11 @@
 * Problem: What problem is this solving?
     - What do I belive the problem I am solving is, and why?
     - Strong problem statement include:
-        1. **It's short.** The longer explanation, the less clear problem definition.
-        2. **It's focused.** Single clear problem(due to the time limit). Including some examples of what problem I am *not* solving could be helpful.
-        3. **It references a "need" that is not being fulfilled.** User need + Biz need(unnecessary). [Jobs-To-Be-Done framework](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
-        4. **It includes a what and a why.** What's going wrong, and wht is it a problem?
-        5. **It's agnostic of a solution.** Try not to rush for problem solving.
+    1. **It's short.** The longer explanation, the less clear problem definition.
+    2. **It's focused.** Single clear problem(due to the time limit). Including some examples of what problem I am *not* solving could be helpful.
+    3. **It references a "need" that is not being fulfilled.** User need + Biz need(unnecessary). [Jobs-To-Be-Done framework](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
+    4. **It includes a what and a why.** What's going wrong, and wht is it a problem?
+    5. **It's agnostic of a solution.** Try not to rush for problem solving.
     
     <br>Examples of good problem statements:
     1. Lyft drivers are cancelling rides too often because the passengers are too far away.
