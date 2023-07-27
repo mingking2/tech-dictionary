@@ -8,8 +8,8 @@
 * Description: What is it?
     + **Breif** description of my thinking.
 * Problem: What problem is this solving?
-    - What do I belive the problem I am solving is, and why?
-    - Strong problem statement include:
+    - What do I belive the problem I am solving is, and why?<br>
+    - Strong problem statement include:<br>
     1. **It's short.** The longer explanation, the less clear problem definition.
     2. **It's focused.** Single clear problem(due to the time limit). Including some examples of what problem I am *not* solving could be helpful.
     3. **It references a "need" that is not being fulfilled.** User need + Biz need(unnecessary). [Jobs-To-Be-Done framework](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
