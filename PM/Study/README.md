@@ -1,12 +1,13 @@
 # [A Three-Step Framework For Solving Problems](https://uxdesign.cc/how-to-solve-problems-6bf14222e424)
 ## Problem Nailing Process
-* [Step 1: Crystallize the problem you are solving](#step-1)
-* [Step 2: Align on the problem with your team and stakeholders](#step-2)
-* [Step 3: Keep coming back to the problem](#step-3)
+* [1. Crystallize the problem you are solving](#step-1:-crystallize-the-problem-you-are-solving)
+* [2. Align on the problem with your team and stakeholders](#step-2:-align-on-the-problem-with-your-team-and-stakeholders)
+* [3. Keep coming back to the problem](#step-3:-keep-coming-back-to-the-problem)
 
 ## Step 0: A little bit of context first
 - Tactics - Strategy - Vision
 - It the team has no clear vision or overall strategy, figure these things out first. [Article](https://boz.com/articles/strategy-tactics), [Book](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters-ebook/dp/B004J4WKEC/ref=sr_1_1?crid=3SUB4MWG7602M&keywords=good+strategy+bad+strategy&qid=1554495219&s=gateway&sprefix=good+strategy+bad%2Caps%2C204&sr=8-1), [Webpage](https://www.salesforce.com/blog/how-to-create-alignment-within-your-company/)
+
 ## Step 1: Crystallize the problem you are solving
 ### Description: What is it?
 + **Breif** description of my thinking.
