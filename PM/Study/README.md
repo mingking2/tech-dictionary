@@ -1,8 +1,8 @@
 # [A Three-Step Framework For Solving Problems](https://uxdesign.cc/how-to-solve-problems-6bf14222e424)
 ## Problem Nailing Process
-* [Step 1: Crystallize the problem you are solving](#step-1:-crystallize-the-problem-you-are-solving)
-* [Step 2: Align on the problem with your team and stakeholders](#step-2:-align-on-the-problem-with-your-team-and-stakeholders)
-* [Step 3: Keep coming back to the problem](#step-3:-keep-coming-back-to-the-problem)
+* [Step 1: Crystallize the problem you are solving](#step-1)
+* [Step 2: Align on the problem with your team and stakeholders](#step-2)
+* [Step 3: Keep coming back to the problem](#step-3)
 
 ## Step 0: A little bit of context first
 - Tactics - Strategy - Vision
