@@ -33,9 +33,48 @@
 <br><br>
 <br><br>
 ## TCP, UDP
-- **인터넷 프로토콜 스택의 4계층**
-![Alt text](./image/인터넷%20프로토콜%20스택의%204계층.png)
 
+**인터넷 프로토콜 스택의 4계층**
+
+![Alt text](./image/인터넷%20프로토콜%20스택의%204계층.png)
+<br><br>
+
+- **프로토콜 계층**
+
+    ![Alt text](./image/프로토콜%20계층.png)
+    <br><br>
+
+- **TCP/IP 패킷 정보**
+
+    ![Alt text](./image/TCP.IP%20패킷%20정보.png)
+    <br><br>
+
+- **TCP 특징**
+    - 전송 제어 프로토콜(Transmission Control Protocol)
+<br><br>
+    - 연결지향 - TCP 3 way handshake (가상 연결)
+        ![Alt text](./image/연결지향.png)
+    - 데이터 전달 보증
+        ![Alt text](./image/데이터%20전달%20보증.png)
+    - 순서 보장
+        ![Alt text](./image/순서%20보장.png)
+<br><br>
+    - 신뢰할 수 있는 프로토콜
+    - 현재는 대부분 TCP 사용
+<br><br>
+<br><br>
+
+- **UDP 특징** <- 요즘 뜬다
+    - 사용자 데이터그램 프로토콜(User Datagram Protocol)
+    <br><br>
+    - 하얀 도화지에 비유(기능이 거의 없음)
+    - 연결 지향 X - TCP 3 way handshake X
+    - 데이터 전달 보증 X
+    - 순서 보장 X
+    - 데이터 전달 및 순서가 보장되지 않지만, 단순하고 빠름
+    - 정리
+        - IP와 거의 같다. +PORT +체크섬 정도만 추가
+        - 애플리케이션에서 추가 작업 필요
 <br><br>
 <br><br>
 ## PORT
