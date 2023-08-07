@@ -78,7 +78,23 @@
 <br><br>
 <br><br>
 ## PORT
+- **한번에 둘 이상 연결해야 하면?**
+    ![Alt text](./image/한번에%20둘%20이상%20연결해야한다.png)
+<br><br>
+- **패킷 정보**
+    ![Alt text](./image/패킷%20정보.png)
+<br><br>
+- **PORT - 같은 IP 내에서 프로세스 구분**
+    ![Alt text](./image/같은%20IP%20내에서%20프로세스%20구분.png)
 
+<br><br>
+- **PORT**
+    - 0 ~ 65535 할당 가능
+    - 0 ~ 1023: 잘 알려진 포트, 사용하지 않는 것이 좋음
+        - FTP - 20,21
+        - TELNET - 23
+        - HTTP - 80
+        - HTTPS - 443
 <br><br>
 <br><br>
 ## DNS
