@@ -146,10 +146,12 @@
 <BR><BR>
 
 ## 비 연결성(connectionless)
-- 연결을 유지하는 모델
+- 연결을 유지하는 모델<BR>
 ![Alt text](./image/연결을%20유지하는%20모델.png)
+
 <BR><BR>
-- 연결을 유지하지 않는 모델
+
+- 연결을 유지하지 않는 모델<BR>
 ![Alt text](./image/연결을%20유지하지%20않는%20모델1.png)
 ![Alt text](./image/연결을%20유지하는%20않는%20모델2.png)
 
@@ -165,9 +167,9 @@
 - **한계와 극복**
     - TCP/IP 연결을 새로 맺어야 함 - 3 way handshake 시간 추가
     - 웹 브라우저로 사이트를 요청하면 HTML 뿐만 아니라 자바스크립트, css, 추가 이미지 등등 수 많은 자원이 함께 다운로드
-    - HTTP 초기 - 연결, 종료 낭비
+    - HTTP 초기 - 연결, 종료 낭비<BR>
     ![Alt text](./image/HTTP초기-연결,종료%20낭비.png)
-    - 지금은 HTTP 지속 연결(Persistent Connections)로 문제 해결
+    - 지금은 HTTP 지속 연결(Persistent Connections)로 문제 해결<BR>
     ![Alt text](./image/HTTP지속연결.png)
     - HTTP/2, HTTP/3에서 더 많은 최적화
 
@@ -187,25 +189,25 @@
 
 <BR><BR>
 - **시작 라인**
-    - **요청 메세지**
+    - **요청 메세지**<BR>
     ![Alt text](./image/요청%20메세지.png)
         - start-line = **request-line** / status-line
         - **request-line** = method SP(공백) request-target SP HTTP-version CRLF(엔터)
         <BR><BR>
-        - **HTTP 메서드** (GET: 조회)
+        - **HTTP 메서드** (GET: 조회)<BR>
         ![Alt text](./image/HTTP%20메서드.png)
             - 종류: GET, POST, PUT, DELETE...
             - 서버가 수행해야 할 동작 지정
                 - GET: 리소스 조회
                 - POST: 요청 내역 처리
         <BR><BR>
-        - **요청 대상** (/search?q=hello&hl=ko)
+        - **요청 대상** (/search?q=hello&hl=ko)<BR>
         ![Alt text](./image/요청%20대상.png)
             - absolute-path[?query] (절대경로[?쿼리])
             - 절대경로= "/" 로 시작하는 경로
             - 참고: *, http://...?x=y 와 같이 다른 유형의 경로지정 방법도 있다.
         <BR><BR>
-        - **HTTP Version**
+        - **HTTP Version**<BR>
         ![Alt text](./image/HTTP%20버전.png)
     
     <BR><BR>
@@ -236,7 +238,7 @@
             - helloworld: hihi
  <BR><BR>
  <BR><BR>
- - **HTTP 메세지 바디**
+ - **HTTP 메세지 바디**<BR>
     ![Alt text](./image/HTTP%20메세지%20바디.png)
     - 실제 전송할 데이터
     - HTML 문서, 이미지, 영상, JSON 등등 byte로 표현할 수 있는 모든 데이터 전송 가능
