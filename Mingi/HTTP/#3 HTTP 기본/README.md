@@ -32,6 +32,7 @@
     - 단순함, 확장 기능
 <BR><BR>
 <BR><BR>
+
 ## 클라이언트 서버 구조
 - Request Response 구조
 - 클라이언트는 서버에 요청을 보내고, 응답을 대기
@@ -40,6 +41,7 @@
     ![Alt text](./image/클라이언트%20서버%20구조.png)
 <BR><BR>
 <BR><BR>
+
 ## Stateful, Stateless
 - **무상태 프로토콜**
 <br>스테이스리스(Stateless)
@@ -141,6 +143,7 @@
             - 상태 유지는 최소한만 사용
 
 <BR><BR>
+<BR><BR>
 
 ## 비 연결성(connectionless)
 - 연결을 유지하는 모델
@@ -176,6 +179,8 @@
     - 예) 저녁 6:00 선착순 1000명 치킨 할인 이벤트 -> 수만명 동시 요청
 
 <BR><BR>
+<BR><BR>
+
 ## HTTP 메시지
 ![Alt text](./image/HTTP%20메세지%20예시.png)
 ![Alt text](./image/HTTP%20메세지%20공식%20스펙.png)
