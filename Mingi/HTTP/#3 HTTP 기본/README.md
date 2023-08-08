@@ -211,8 +211,7 @@
         ![Alt text](./image/HTTP%20버전.png)
     
     <BR><BR>
-    - **응답 메세지**
-<BR>
+    - **응답 메세지**<BR>
     ![Alt text](./image/응답%20메세지.png)
         - start-line = request-line / **status-line**
         - **status-line** = HTTP-version SP status-code SP reason-phrase CRLF
@@ -227,7 +226,7 @@
 <BR><BR>
 - **HTTP 헤더**
     - header-field = field-name ":" OWS field-value OWS    (OWS:띄어쓰기 허용)
-    -  field-name은 대소문자 구문 없음
+    -  field-name은 대소문자 구문 없음<BR>
         ![Alt text](./image/HTTP%20헤더.png)
     <BR><BR>
     - 용도
