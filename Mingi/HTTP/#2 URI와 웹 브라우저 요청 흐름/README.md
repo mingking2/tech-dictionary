@@ -69,34 +69,34 @@
         <br><br>
 ## 웹 브라우저 요청 흐름
 
-- HTTP 요청 메시지 생성
-![Alt text](./image/HTTP%20요청%20메세지%20생성1.png)
+- HTTP 요청 메시지 생성<br>
+![Alt text](./image/HTTP%20요청%20메세지%20생성1.png)<br>
 ![Alt text](./image/HTTP%20요청%20메세지%20생성2.png)
 <br><br>
 
-- HTTP 메서지 전송
+- HTTP 메서지 전송<br>
 ![Alt text](./image/HTTP%20메세지%20전송.png)
 <br><br>
 
-- 패킷 생성
-![Alt text](./image/패킷%20생성1.png)
+- 패킷 생성<br>
+![Alt text](./image/패킷%20생성1.png)<br>
 ![Alt text](./image/패킷%20생성2.png)
 <br><br>
 
-- 요청 패킷 전달
+- 요청 패킷 전달<br>
 ![Alt text](./image/요청%20패킷%20전달.png)
 <br><br>
 
-- 요청 패킷 도착
-![Alt text](./image/요청%20패킷%20도착1.png)
+- 요청 패킷 도착<br>
+![Alt text](./image/요청%20패킷%20도착1.png)<br>
 ![Alt text](./image/요청%20패킷%20도착2.png)
 <br><br>
 
-- 응답 패킷 전달
+- 응답 패킷 전달<br>
 ![Alt text](./image/응답%20팬킷%20전달.png)
 <br><br>
 
-- 응답 패킷 도착, 렌더링
-![Alt text](./image/응답%20패킷%20도착.png)
+- 응답 패킷 도착, 렌더링<br>
+![Alt text](./image/응답%20패킷%20도착.png)<br>
 ![Alt text](./image/렌더링.png)
 <br><br>
