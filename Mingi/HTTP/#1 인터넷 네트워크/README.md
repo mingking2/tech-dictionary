@@ -11,13 +11,13 @@
     - 패킷(Packet)이라는 통신 단위로 데이터 전달
 <br><br>
 
-- **IP 패킷 정보**
+- **IP 패킷 정보**<br>
     ![Alt text](./image/IP%20패킷%20정보.png)
 
-    - 클라이언트 패킷 전달
+    - 클라이언트 패킷 전달<br>
     ![Alt text](./image/클라이언트%20패킷%20전달.png) 
 
-    - 서버 패킷 전달
+    - 서버 패킷 전달<br>
     ![Alt text](./image/서버%20패킷%20전달.png)
 
 - **IP 프로토콜의 한계**
@@ -40,23 +40,23 @@
 <br><br>
 
 - **프로토콜 계층**
-
+<br>
     ![Alt text](./image/프로토콜%20계층.png)
     <br><br>
 
 - **TCP/IP 패킷 정보**
-
+<br>
     ![Alt text](./image/TCP.IP%20패킷%20정보.png)
     <br><br>
 
 - **TCP 특징**
     - 전송 제어 프로토콜(Transmission Control Protocol)
 <br><br>
-    - 연결지향 - TCP 3 way handshake (가상 연결)
+    - 연결지향 - TCP 3 way handshake (가상 연결)<br>
         ![Alt text](./image/연결지향.png)
-    - 데이터 전달 보증
+    - 데이터 전달 보증<br>
         ![Alt text](./image/데이터%20전달%20보증.png)
-    - 순서 보장
+    - 순서 보장<br>
         ![Alt text](./image/순서%20보장.png)
 <br><br>
     - 신뢰할 수 있는 프로토콜
@@ -78,13 +78,13 @@
 <br><br>
 <br><br>
 ## PORT
-- **한번에 둘 이상 연결해야 하면?**
+- **한번에 둘 이상 연결해야 하면?**<br>
     ![Alt text](./image/한번에%20둘%20이상%20연결해야한다.png)
 <br><br>
-- **패킷 정보**
+- **패킷 정보**<br>
     ![Alt text](./image/패킷%20정보.png)
 <br><br>
-- **PORT - 같은 IP 내에서 프로세스 구분**
+- **PORT - 같은 IP 내에서 프로세스 구분**<br>
     ![Alt text](./image/같은%20IP%20내에서%20프로세스%20구분.png)
 
 <br><br>
@@ -106,5 +106,5 @@
         - 전화번호부
         - 도메인 명을 IP 주소로 변환
 <br><br>
-
+<br>
     ![Alt text](./image/DNS%20사용.png)
