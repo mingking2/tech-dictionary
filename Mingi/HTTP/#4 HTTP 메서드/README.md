@@ -74,7 +74,7 @@
         - TRACE: 대상 리소스에 대한 경로를 따라 메세지 루프백 테스트를 수행
 <BR><BR>
 
-- GET
+- **GET**
     <br>![Alt text](./image/GET.png)
     - 리소스 조회
         1. 메세지 전달<br>
@@ -87,7 +87,7 @@
     - 메세지 바디를 사용해서 데이터를 전달할 수 있지만, 지원하지 않는 곳이 많아서 권장하지 않음
 <BR><BR>
 
-- POST
+- **POST**
     <BR>![Alt text](./image/POST.png)
     - 요청 데이터 처리
         1. 메세지 전달<BR>
@@ -131,7 +131,33 @@
 <BR><BR>
 <BR><BR>
 ## HTTP 메서드 - PUT, PATCH, DELETE
-
+- **PUT**<BR>
+    ![Alt text](./image/PUT.png)
+    - **리소스를 대체**
+        - 리소스가 있으면 대체
+            <BR>![Alt text](./image/리소스가%20있으면%20대체1.png)
+            <BR>![Alt text](./image/리소스가%20있으면%20대체2.png)
+        - 리소스가 없으면 생성
+            <BR>![Alt text](./image/리소스가%20없으면%20생성1.png)
+            <BR>![Alt text](./image/리소스가%20없으면%20생성2.png)
+        - 쉽게 이야기해서 덮어버림
+            <BR>![Alt text](./image/덮어버림1.png)
+            <BR>![Alt text](./image/덮어버림2.png)
+    - **중요! 클라이언트가 리소스를 식별**
+        - 클라이언트가 리소스 위치를 알고 URI 지정
+        - POST와 차이점
+<BR><BR>
+- **PATCH**<BR>
+    ![Alt text](./image/PATCH.png)
+    - 리소스 부분 변경
+        <BR>![Alt text](./image/리소스%20부분%20변경1.png)
+        <BR>![Alt text](./image/리소스%20부분%20변경2.png)
+<BR><BR>
+- **DELETE**<BR>
+    ![Alt text](./image/DELETE.png)
+    - 리소스 제거
+        <BR>![Alt text](./image/리소스%20제거1.png)
+        <BR>![Alt text](./image/리소스%20제거2.png)
 <BR><BR>
 <BR><BR>
 ## HTTP 메서드의 속성
